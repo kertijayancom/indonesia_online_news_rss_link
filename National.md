@@ -4,7 +4,15 @@ Indonesia Online News
 
 | No | Name    | Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :-----: | :-----: | :-----: | :----- |
-| 1 | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/all)| yes | no | all latest news |
+| 1 | Detik.com| news, berita | [url](http://rss.detik.com/index.php/detikcom)| yes | no | all latest news |
+|  | Detik Inet| tech, detik, berita, tekno | [url](http://rss.detik.com/index.php/inet)| yes | no | latest tech news |
+|  | Detik Sport| sport, detik, olahraga, berita | [url](http://rss.detik.com/index.php/sepakbola)| yes | no |  latest football news |
+|  | Detik Finance| detik, finance, berita, ekonomi, perbankan, investasi | [url]("http://rss.detik.com/index.php/finance)| yes | no | latest finance news |
+|  | Detik Hot| detik,berita, entertainment, indonesia | [url]("http://rss.detik.com/index.php/hot)| yes | no | latest entertainment news |
+|  | Detik Health| detik, kesehatan, health, berita | [url]("http://rss.detik.com/index.php/health)| yes | no | latest health news |
+|  | Detik Oto| detik, otomotif, berita | [url]("http://rss.detik.com/index.php/otomotif)| yes | no | latest automotive news |
+|  | Detik Wolipop| detik, lifestyle, fashion | [url]("http://rss.detik.com/index.php/wolipop)| yes | no | latest lifestyle and fashion news |
+| 2 | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/all)| yes | no | all latest news |
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/nasional)| yes | no | latest national news |
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/keuangan)| yes | no | latest finance news |
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/industri)| yes | no | latest industry news|
@@ -32,7 +40,7 @@ Indonesia Online News
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/adv)| yes | no | latest adv news|
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/exportexpert)| yes | no | latest export expert news|
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/tabloid)| yes | no | latest tabloid news|
-| 2 | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/0/RSS2.0)| yes | no | latest breaking news |
+| 3 | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/0/RSS2.0)| yes | no | latest breaking news |
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/1/RSS2.0)| yes | no | latest news |
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/11/RSS2.0)| yes | no | latest economy news |
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/12/RSS2.0)| yes | no | latest lifestyle news |
@@ -40,7 +48,7 @@ Indonesia Online News
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/14/RSS2.0)| yes | no | latest football / soccer news |
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/2/RSS2.0)| yes | no | latest sport news |
 |  | Okezone.com | umum, politik, peristiwa, internasional, ekonomi, lifestyle, selebriti, sports, bola, auto, teknologi, Travel, Food, Haji, Muslim | [url](http://sindikasi.okezone.com/index.php/rss/16/RSS2.0)| yes | no | latest techno news |
-| 3 | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/terbaru/feed)| yes | no | all latest news |
+| 4 | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/terbaru/feed)| yes | no | all latest news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/berita/feed)| yes | no | only latest news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/cerita/feed)| yes | no | latest cerita category |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/sains-bola/feed)| yes | no | latest sains-bola category |
@@ -51,4 +59,4 @@ Indonesia Online News
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/infografis/feed)| yes | no | latest infographic news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/video/feed)| yes | no | latest video news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/arsip/feed)| yes | no | latest archieve news |
-| 4 | Tribunnews.com | berita, indonesia | [url](https://www.tribunnews.com/rss)| yes | no | all latest news |
+| 5 | Tribunnews.com | berita, indonesia | [url](https://www.tribunnews.com/rss)| yes | no | all latest news |
