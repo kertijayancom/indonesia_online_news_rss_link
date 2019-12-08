@@ -51,4 +51,4 @@ Indonesia Online News
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/infografis/feed)| yes | no | latest infographic news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/video/feed)| yes | no | latest video news |
 | | Panditfootball.com | football, sports, bola | [url](http://panditfootball.com/arsip/feed)| yes | no | latest archieve news |
-| 4 | Tribunnews.com | berita, indonesia | [url](http://panditfootball.com/terbaru/feed)| yes | no | all latest news |
+| 4 | Tribunnews.com | berita, indonesia | [url](https://www.tribunnews.com/rss)| yes | no | all latest news |
