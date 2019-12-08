@@ -12,3 +12,13 @@ need icon? [check this](http://www.feedicons.com/)
 
 # license
 check on the right pane
+
+
+# data
+- national sites : online news has wide range all of national news, especially national issue.
+- regional sites : from all provinces
+- category : we need more information about this category. we are currently focus on news category and sports.
+
+
+# contribution
+you can gice any advice, suggestion, question, or anything, just create issue, and we hope can read as soon as possible.
