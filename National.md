@@ -7,11 +7,13 @@ Indonesia Online News
 | 1 | Detik.com| news, berita | [url](http://rss.detik.com/index.php/detikcom)| yes | no | all latest news |
 |  | Detik Inet| tech, detik, berita, tekno | [url](http://rss.detik.com/index.php/inet)| yes | no | latest tech news |
 |  | Detik Sport| sport, detik, olahraga, berita | [url](http://rss.detik.com/index.php/sepakbola)| yes | no |  latest football news |
-|  | Detik Finance| detik, finance, berita, ekonomi, perbankan, investasi | [url]("http://rss.detik.com/index.php/finance)| yes | no | latest finance news |
+|  | Detik Finance| detik, finance, berita, ekonomi, perbankan, investasi | [url]("http://rss.detik.com/index.php/finance)| yes | no | latest finance news |    
 |  | Detik Hot| detik,berita, entertainment, indonesia | [url]("http://rss.detik.com/index.php/hot)| yes | no | latest entertainment news |
 |  | Detik Health| detik, kesehatan, health, berita | [url]("http://rss.detik.com/index.php/health)| yes | no | latest health news |
 |  | Detik Oto| detik, otomotif, berita | [url]("http://rss.detik.com/index.php/otomotif)| yes | no | latest automotive news |
 |  | Detik Wolipop| detik, lifestyle, fashion | [url]("http://rss.detik.com/index.php/wolipop)| yes | no | latest lifestyle and fashion news |
+|  | Detik Food| detik, food, kuliner | [url]("http://rss.detik.com/index.php/food)| yes | no | latest food news |
+|  | Detik Travel| detik, travel, indonesia | [url]("http://rss.detik.com/index.php/travel)| yes | no | latest travel news |
 | 2 | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/all)| yes | no | all latest news |
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/nasional)| yes | no | latest national news |
 | | Kontan.co.id| finance, kontan, berita, bisnis | [url](http://rss.kontan.co.id/news/keuangan)| yes | no | latest finance news |
