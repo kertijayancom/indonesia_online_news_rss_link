@@ -12,7 +12,7 @@ Indonesia Online News - Regional section. order by province name.
 # Banten
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Banten News | Banten | berita, banten | [https://www.bantennews.co.id/feed/](-)| yes | no | all latest news |
 
 
 # Bengkulu
