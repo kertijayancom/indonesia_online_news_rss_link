@@ -77,29 +77,33 @@ Indonesia Online News - Regional section. order by province name.
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Tribun Pontianak | pontianak | berita, pontianak | [url](http://pontianak.tribunnews.com/rss)| yes | no | all latest news |
+| 2 | Borneo24 Kalbar | kalimantan barat | berita, kalimantan barat | [url](https://borneo24.com/category/seputar-borneo/kalimantan-barat/feed)| yes | no | all latest news |
+
 
 
 # Kalimantan Selatan
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Banjarmasin Post | Banjarmasin | berita, banjarmasin | [url](https://banjarmasin.tribunnews.com/rss)| yes | no | all latest news |
+| 2 | Borneo24 Kalsel | Kalimantan Selatan | berita, kalimantan selatan | [url](https://borneo24.com/category/seputar-borneo/kalsel/feed)| yes | no | all latest news |
 
 # Kalimantan Tengah
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Borneo24 | Kalimantan Tengah | berita, kalimantan tengah | [url](https://borneo24.com/feed)| yes | no | all latest news |
 
 
 # Kalimantan Timur
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Tribun Kaltim | kalimantan timur | berita, kalimantan timur | [url](http://kaltim.tribunnews.com/rss)| yes | no | all latest news |      
+| 2 | Borneo24 Kaltim | kalimantan timur | berita, kalimantan timur | [url](https://borneo24.com/category/seputar-borneo/kalimantan-timur/feed)| yes | no | all latest news |
 
 
 # Kalimantan Utara
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Borneo24 Kalimantan Utara | kalimantan utara | berita, kalimantan utara | [url](https://borneo24.com/category/seputar-borneo/kalimantan-utara/feed)| yes | no | all latest news |
 
 
 # Kepulauan Bangka Belitung
