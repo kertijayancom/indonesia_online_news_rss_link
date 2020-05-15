@@ -23,7 +23,9 @@ Indonesia Online News - Regional section. order by province name.
 # Bengkulu
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Antara Bengkulu | Bengkulu | berita, bengkulu | [url](https://bengkulu.antaranews.com/rss/terkini.xml)| yes | no | all latest news |
+| 2 | Berita Terbit | Bengkulu | berita, bengkulu | [url](http://www.beritaterbit.com/feed)| yes | no | all latest news |
+| 3 | Bengkulu Express | Bengkulu | berita, bengkulu | [url](https://bengkuluekspress.com/feed/)| yes | no | all latest news |
 
 
 # Gorontalo
