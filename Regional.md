@@ -47,6 +47,11 @@ Indonesia Online News - Regional section. order by province name.
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Tribun Jambi | jambi | berita, jambi | [url](http://jambi.tribunnews.com/rss)| yes | no | all latest news |
+| 2 | Kerinci Time | jambi | berita, jambi | [url](https://kerincitime.co.id/feed)| yes | no | all latest news |
+| 3 | Kliwarta Jambi | jambi | berita, jambi | [url](https://www.klikwarta.com/taxonomy/term/1596/feed)| yes | no | all latest news |
+| 4 | MitraToday Jambi | jambi | berita, jambi | [url](https://www.mitratoday.com/daerah/jambi/feed/)| yes | no | all latest news |
+| 5 | HaloJambi | jambi | berita, jambi | [url](https://halojambi.id/index.php?format=feed&type=rss)| yes | no | all latest news |
+
 
 
 # Jawa Barat
