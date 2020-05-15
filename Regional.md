@@ -31,7 +31,10 @@ Indonesia Online News - Regional section. order by province name.
 # Gorontalo
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Hulondalo ID | Gorontalo | berita, gorontalo | [url](https://hulondalo.id/feed/)| yes | no | all latest news |
+| 2 | Sulut Go Online | Gorontalo | berita, gorontalo | [url](https://www.sulutgoonline.com/feed/)| yes | no | all latest news |
+| 3 | Boalemo News | Gorontalo | berita, gorontalo | [url](https://www.boalemonews.id/feed/)| yes | no | all latest news |
+| 4 | Gopos | Gorontalo | berita, gorontalo | [url](https://gopos.id/feed/)| yes | no | all latest news |
 
 
 # Jakarta
