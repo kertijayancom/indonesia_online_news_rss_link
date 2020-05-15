@@ -22,3 +22,6 @@ check on the right pane
 
 # contribution
 you can gice any advice, suggestion, question, or anything, just create issue, and we hope can read as soon as possible.
+
+# found wrong url or missing data?
+please report by using issue tab. create new issue, and write the details
