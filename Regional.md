@@ -170,6 +170,8 @@ Indonesia Online News - Regional section. order by province name.
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Tribun Pekanbaru | pekanbaru | berita, pekanbaru | [url](http://pekanbaru.tribunnews.com/rss)| yes | no | all latest news |
+| 2 | Potret News | pekanbaru | berita, riau | [url](https://www.potretnews.com/rss/berita/)| yes | no | all latest news |
+
 
 
 
