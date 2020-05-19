@@ -157,13 +157,15 @@ Indonesia Online News - Regional section. order by province name.
 # Papua
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Suara Papua | papua | berita, papua | [url](https://suarapapua.com/feed/)| yes | no | all latest news - need javascript to get rss |
+| 2 | JUBI | papua | berita, papua | [url](https://jubi.co.id/feed/)| yes | no | all latest news |
 
 
 # Papua Barat
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Teropong News | Papua Barat | berita, papua barat | [url](http://teropongnews.com/feed/)| yes | no | all latest news |
+| 2 | Papua Kini | Papua Barat | berita, papua barat | [url](https://papuakini.co/feed/)| yes | no | all latest news |
 
 
 # Riau
