@@ -25,3 +25,6 @@ you can gice any advice, suggestion, question, or anything, just create issue, a
 
 # found wrong url or missing data?
 please report by using issue tab. create new issue, and write the details
+
+# validation
+we check one by one every request news link. for now, every firm or news company who valid by dewanpers is better to be one of our source [check this](https://dewanpers.or.id/data/perusahaanpers/)
