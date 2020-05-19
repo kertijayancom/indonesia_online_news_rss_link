@@ -86,6 +86,9 @@ Indonesia Online News - Regional section. order by province name.
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
 | 1 | Banjarmasin Post | Banjarmasin | berita, banjarmasin | [url](https://banjarmasin.tribunnews.com/rss)| yes | no | all latest news |
 | 2 | Borneo24 Kalsel | Kalimantan Selatan | berita, kalimantan selatan | [url](https://borneo24.com/category/seputar-borneo/kalsel/feed)| yes | no | all latest news |
+| 3 | Kanal Kalimantan | Kalimantan Selatan | berita, kalimantan selatan | [url](https://kanalkalimantan.com/feed/)| yes | no | all latest news |
+
+
 
 # Kalimantan Tengah
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
