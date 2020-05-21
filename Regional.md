@@ -213,7 +213,7 @@ Indonesia Online News - Regional section. order by province name.
 # Sumatra Barat
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
-| - | - | - | - | [url](-)| yes | no | - |
+| 1 | Kongkrit | Sumatera Barat | Berita, sumatera barat | [url](https://kongkrit.com/feed/)| yes | no | all latest news |
 
 
 # Sumatra Selatan
