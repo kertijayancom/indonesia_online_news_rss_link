@@ -231,8 +231,6 @@ Indonesia Online News - Regional section. order by province name.
 | 4| mattanews.co | sumatera selatan | berita, sumatera selatan | [url](http://mattanews.co/feed/)| yes | no | all latest news |
 | 5| palpres.com | sumatera selatan | berita, sumatera selatan | [url](https://palpres.com/feed/)| yes | no | all latest news |
 
-mattanews.co
-
 # Sumatra Utara
 | No | Name    | Regional |Genre | Link   | XML     | JSON     | Desc |
 | -- | ------- | :----- | :----- | :-----: | :-----: | :-----: | :----- |
