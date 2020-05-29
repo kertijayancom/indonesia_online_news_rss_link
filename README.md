@@ -1,6 +1,10 @@
 # indonesia_online_news_rss_link
 this repository contains all news site and rss link from indonesia online news
 
+# Pages
+- [National News](https://kertijayancom.github.io/indonesia_online_news_rss_link/National)
+- [Regional News](https://kertijayancom.github.io/indonesia_online_news_rss_link/Regional)
+- [URL Count](https://kertijayancom.github.io/indonesia_online_news_rss_link/UrlCount)
 
 # what is rss?
 
