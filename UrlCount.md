@@ -40,4 +40,3 @@ This page write manually every url added to regional news, national, or another 
 | 31| Sumatra Selatan | 5 | |
 | 32| Sumatra Utara | 1 | |
 | 33| Yogyakarta | 1 | |
-| 34|  | 0 | |
