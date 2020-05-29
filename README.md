@@ -1,3 +1,5 @@
+> **WARNING**: page Regional has problem and need to fix it later, you can check from github source instead
+
 # indonesia_online_news_rss_link
 this repository contains all news site and rss link from indonesia online news
 
