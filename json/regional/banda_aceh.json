@@ -1,0 +1,12 @@
+[
+  {
+    "no": 1, 
+    "name": "Serambi Indonesia", 
+    "regional": "Aceh"
+    "genre": "berita, aceh"
+    "link": "https://aceh.tribunnews.com/rss"
+    "xml": true
+    "json": false
+    "desc": "all latest news"
+    }
+]
